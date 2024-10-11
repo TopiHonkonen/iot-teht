@@ -1,0 +1,61 @@
+[
+	{
+		"house-name": "house1",
+		"iot-sensors": [
+			{
+				"sensor-id": 10,
+				"location": "kitchen",
+				"notes": "thermometer",
+				"unix-epoch": 1728649208,
+				"values": [
+					24,
+					25,
+					25,
+					23
+				]
+			},
+			{
+				"sensor-id": 20,
+				"location": "living room",
+				"notes": "humidity sensor",
+				"unix-epoch": 1728650522,
+				"values": [
+					40,
+					41,
+					41,
+					41,
+					42
+				]
+			}
+		]
+	},
+	{
+		"house-name": "house2",
+		"iot-sensors": [
+			{
+				"sensor-id": 10,
+				"location": "kitchen",
+				"notes": "thermometer",
+				"unix-epoch": 1728650555,
+				"values": [
+					26,
+					26,
+					26,
+					25
+				]
+			},
+			{
+				"sensor-id": 20,
+				"location": "living room",
+				"notes": "humidity sensor",
+				"unix-epoch": 1728650581,
+				"values": [
+					41,
+					41,
+					41,
+					40
+				]
+			}
+		]
+	}
+]
